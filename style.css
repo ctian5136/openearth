@@ -1,0 +1,22 @@
+body {
+    font-family: 'Raleway', sans-serif;
+}
+
+.section{
+    text-align:center;
+    padding-left:4%;
+    padding-right:4%;
+    padding-bottom: 3%;
+}
+
+#section1{
+    height: 100%;
+    padding-top: 15vh;
+    padding-bottom: 15vh;
+    padding-right: 20vh;
+    padding-left: 20vh;
+    background-color:#ABDDA4;
+    opacity: 60%;
+    color: black;
+    text-align: center;
+}
